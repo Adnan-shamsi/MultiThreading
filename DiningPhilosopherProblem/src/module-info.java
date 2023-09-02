@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author adnan
+ *
+ */
+module DiningPhilosopherProblem {
+}
